@@ -43,7 +43,7 @@ class CipherUtils {
             return result
         }
 
-        
+
         public fun decodeScript(bitmap: Bitmap): String {
             var result = ""
 

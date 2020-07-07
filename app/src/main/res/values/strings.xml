@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ImageEmbeddedCryptographer</string>
+    <string name="button_import_image">Upload Image</string>
+    <string name="button_encode_script">Encode Script</string>
+    <string name="button_decode_script">Decode Script</string>
+    <string name="enter_text_here">Enter text here for encoding</string>
 </resources>
