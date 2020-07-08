@@ -10,7 +10,7 @@ class SoundUtlis {
         public enum class SOUNDS(val sourceID: Int){
             CLICK(R.raw.menu_selection),
             ENCODE(R.raw.swoosh_brighter),
-            DECODE(R.raw.menu_selection)
+            DECODE(R.raw.buttonchime02up)
 
         }
 
